@@ -1,2 +1,3 @@
 # Sleeping-Beauty-Interface
-Just another BCI application...
+Caming soon a tested release of Brain Computer Interface code.
+
